@@ -20,7 +20,7 @@ import risefuelImg from "@/assets/img/risefuel.jpg";
 import RyokoImg from "@/assets/img/ryoko.jpg";
 import humeImg from "@/assets/img/hume.jpg";
 import synoshiImg from "@/assets/img/synoshi.jpg";
-import coldeezImg from "@/assets/img/coldeez.jpg";
+//import coldeezImg from "@/assets/img/coldeez.jpg";//
 import ZappifyImg from "@/assets/img/zappify.jpg";
 import InsecTrapImg from "@/assets/img/insectrap.jpg";
 import ScrollGenieImg from "@/assets/img/scrollgenie.jpg";
@@ -184,18 +184,7 @@ const Products = () => {
       badge: "New",
       category: "electronics",
     },
-    {
-      id: "12",
-      title: "Coldeez Cooling ACE",
-      description:
-        "Stay cool and comfortable with Coldeez Cooling ACE, the ultimate solution for hot days and outdoor activities.",
-      rating: 4.4,
-      reviewCount: 289,
-      image: coldeezImg,
-      affiliateLink: "https://www.clickrtrckr.com/646BD27/4GJJNM8/",
-      badge: "New",
-      category: "electronics",
-    },
+   
     {
       id: "13",
       title: "Zappify 2.0",
