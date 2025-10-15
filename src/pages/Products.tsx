@@ -22,8 +22,8 @@ import humeImg from "@/assets/img/hume.jpg";
 import synoshiImg from "@/assets/img/synoshi.jpg";
 //import coldeezImg from "@/assets/img/coldeez.jpg";//
 import zappifyImg from "@/assets/img/zappify.jpg";
-import InsecTrapImg from "@/assets/img/insectrap.jpg";
-import ScrollGenieImg from "@/assets/img/scrollgenie.jpg";
+import insecTrapImg from "@/assets/img/insectrap.jpg";
+import ScrollGenieImg from "@/assets/img/Scrollgenie.jpg";
 import klaudenaImg from "@/assets/img/klaudena.jpg";
 import CuraBallImg from "@/assets/img/CuraBall.jpg";
 import EchoLabsImg from "@/assets/img/EchoLabs.jpg";
@@ -204,7 +204,7 @@ const Products = () => {
         "Protect your home with InsecTrap, an innovative insect trap that captures pests without harmful chemicals.",
       rating: 4.3,
       reviewCount: 678,
-      image: InsecTrapImg,
+      image: insecTrapImg,
       affiliateLink: "https://www.clickrtrckr.com/646BD27/3335GRZ/",
       badge: "New",
       category: "electronics",
