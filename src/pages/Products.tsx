@@ -23,7 +23,7 @@ import synoshiImg from "@/assets/img/synoshi.jpg";
 //import coldeezImg from "@/assets/img/coldeez.jpg";//
 import zappifyImg from "@/assets/img/zappify.jpg";
 import insecTrapImg from "@/assets/img/insectrap.jpg";
-import ScrollGenieImg from "@/assets/img/Scrollgenie.jpg";
+import scrollgenieImg from "@/assets/img/scrollgenie.jpg";
 import klaudenaImg from "@/assets/img/klaudena.jpg";
 import CuraBallImg from "@/assets/img/CuraBall.jpg";
 import EchoLabsImg from "@/assets/img/EchoLabs.jpg";
@@ -216,7 +216,7 @@ const Products = () => {
         "Enhance your browsing experience with ScrollGenie, a smart scrolling tool for effortless navigation.",
       rating: 4.2,
       reviewCount: 345,
-      image: ScrollGenieImg,
+      image: scrollgenieImg,
       affiliateLink: "https://www.clickrtrckr.com/646BD27/335X896/",
       badge: "New",
       category: "electronics",
