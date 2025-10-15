@@ -21,7 +21,7 @@ import RyokoImg from "@/assets/img/ryoko.jpg";
 import humeImg from "@/assets/img/hume.jpg";
 import synoshiImg from "@/assets/img/synoshi.jpg";
 //import coldeezImg from "@/assets/img/coldeez.jpg";//
-import ZappifyImg from "@/assets/img/zappify.jpg";
+import zappifyImg from "@/assets/img/zappify.jpg";
 import InsecTrapImg from "@/assets/img/insectrap.jpg";
 import ScrollGenieImg from "@/assets/img/scrollgenie.jpg";
 import klaudenaImg from "@/assets/img/klaudena.jpg";
@@ -192,7 +192,7 @@ const Products = () => {
         "Upgrade your audio experience with Zappify 2.0, featuring crystal-clear sound and deep bass.",
       rating: 4.6,
       reviewCount: 1123,
-      image: ZappifyImg,
+      image: zappifyImg,
       affiliateLink: "https://www.clickrtrckr.com/646BD27/4B269N1/",
       badge: "New",
       category: "electronics",
